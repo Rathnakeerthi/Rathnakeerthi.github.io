@@ -1,6 +1,9 @@
 # Devops Engineer
 - Skilled DevOps Engineer with 3.10 years of hands-on experience architecting/ automating and optimizing mission-critical deployments over extensive infrastructure. Proficient with infrastructure provisioning tools, and in developing CI/CD pipelines.
 
+# Contact :
+
+- linkedin:www.linkedin.com/in/rathnakireeti-uddhagiri
 
 ### Education
 BCA Bachelor of Computer Applications | SRI VENKATESWARA UNIVERSITY 2020-OCT
@@ -24,9 +27,10 @@ BCA Bachelor of Computer Applications | SRI VENKATESWARA UNIVERSITY 2020-OCT
 - Version Control: Git, GitHub.
 
 ### work experience
+
 Devops Engineer @ TCS Tata conscultancy servicies (_December 2020 - _November 2024)
 
-### 📂 Projects @ TCS (from )
+### 📂 Projects @ TCS 
 
 ###  Deployed Jupyter-hub on prem cluster using helm charts
 
