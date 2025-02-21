@@ -6,9 +6,8 @@
 - linkedin:www.linkedin.com/in/rathnakireeti-uddhagiri
 
 ### Education
+
 BCA Bachelor of Computer Applications | SRI VENKATESWARA UNIVERSITY 2020-OCT
-
-
 
 ### 🛠️ Technologies & Tools
 
@@ -28,17 +27,17 @@ BCA Bachelor of Computer Applications | SRI VENKATESWARA UNIVERSITY 2020-OCT
 
 ### work experience
 
-Devops Engineer @ TCS Tata conscultancy servicies (_December 2020 - _November 2024)
+Devops Engineer @ TCS Tata conscultancy servicies (_January 2021 - _November 2024)
 
-### 📂 Projects @ TCS 
+### 📂 Projects @ TCS
 
-###  Deployed Jupyter-hub on prem cluster using helm charts
+### Deployed Jupyter-hub on prem cluster using helm charts
 
 - I deployed JupyterHub on an on-premises Kubernetes cluster using Helm charts to provide a scalable, multi-user Jupyter Notebook environment. First, I ensured the cluster was properly configured with role-based access control (RBAC) and persistent storage for user data. Then, I used the official JupyterHub Helm chart, customized its values.yaml file to configure authentication, resource limits, and storage, and deployed it with helm install. Post-deployment, I set up Ingress and SSL certificates to allow secure access. Finally, I monitored and fine-tuned performance using Prometheus and Grafana, ensuring stability and scalability for multiple users.
 
 ### Deployed Selinium-Grid on prem cluster using helm charts
 
-- I deployed Selenium Grid on an on-premises Kubernetes cluster using Helm charts to enable scalable, distributed test execution. First, I configured the Kubernetes cluster with appropriate resource allocations and network policies. Then, I customized the Selenium Grid Helm chart (values.yaml) to define the hub, browser nodes (Chrome/Firefox), and session handling settings. Using helm install, I deployed the grid and verified node connectivity. To enable external access, I configured Ingress and persistent storage for logs and test reports. Finally, I integrated it with CI/CD pipelines (e.g., Jenkins) for automated parallel testing, ensuring efficient test execution.
+- I deployed Selenium Grid on an on-premises Kubernetes cluster using Helm charts to enable scalable, distributed test execution. First, I configured the Kubernetes cluster with appropriate resource allocations and network policies. Then, I customized the Selenium Grid Helm chart (values.yaml) to define the hub, browser nodes (Chrome/Firefox), and session handling settings. Using helm install, I deployed the grid and verified node connectivity. To enable external access, I configured Ingress and persistent storage for logs and test reports. Finally, I integrated it with CI/CD pipelines  for automated parallel testing, ensuring efficient test execution.
 
 ### POS System Modernization: Migrating JavaPOS to Kubernetes
 
