@@ -3,7 +3,7 @@
 
 # Contact :
 
-- linkedin:www.linkedin.com/in/rathnakireeti-uddhagiri
+[linkedin]: www.linkedin.com/in/rathnakireeti-uddhagiri
 
 ### Education
 
@@ -63,14 +63,15 @@ Devops Engineer @ TCS Tata conscultancy servicies (_January 2021 - _November 202
 
 - For new infrastructure, we developed modular Terraform configurations to provision EKS clusters (with autoscaling worker nodes and IAM integration), EC2 instances (with optimized AMIs), serverless Lambda functions, and Route 53 DNS records for domain management. We leveraged Terraform workspaces to manage multiple environments (dev, staging, production) seamlessly.
 
-- To ensure reliability and security, we integrated Terraform with AWS S3 (backend state) and DynamoDB (state locking) for safe multi-user collaboration. CI/CD workflows were implemented using GitHub Actions and Terraform Cloud, enabling automated deployments with policy enforcement and drift detection. Additionally, we incorporated AWS ALB for ingress traffic management, IAM policies for access control, and CloudWatch for proactive monitoring.
+- To ensure reliability and security, we integrated Terraform with AWS S3 (backend state) and DynamoDB (state locking) for safe multi-user collaboration. CI/CD workflows were implemented using Jenkins and Terraform Cloud, enabling automated deployments with policy enforcement and drift detection. Additionally, we incorporated AWS ALB for ingress traffic management, IAM policies for access control, and CloudWatch for proactive monitoring.
 
 # Key Technologies & Tools:
 
 - Infrastructure as Code (IaC): Terraform (modular approach)
 - AWS Services Used: EKS, EC2, Route 53, Lambda, VPC, IAM, ALB
 - CI/CD & Automation: GitHub Actions, Terraform Cloud, AWS CodePipeline
-- State Management & Security: AWS S3 (Terraform backend), DynamoDB (state locking), IAM roles
+- State Management & Security: AWS S3 (Terraform backend), DynamoDB (state locking),
+  IAM-roles
 - Monitoring & Logging: AWS CloudWatch, Prometheus, Grafana
 - Networking: VPC, Subnets, Security Groups, Route 53
 
